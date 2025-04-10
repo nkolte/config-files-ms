@@ -19,5 +19,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 welcome:
-  message: Hello from Organization Service Spring Cloud Bus Demo!      
+  message: Hello from Organization Service Spring config refresh Demo.     
 
